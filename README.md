@@ -1,6 +1,6 @@
 # Website Style Guide: 
 
-Welcome to the Website Style Guide project! In this project, I have developed a comprehensive style guide and design system for a fictional website named "." A design system is a valuable tool used to organize and maintain the visual elements and components of a website, ensuring a consistent and cohesive user experience.
+Welcome to the Website Style Guide project! In this project, I have developed a comprehensive style guide and design system for a fictional website. A design system is a valuable tool used to organize and maintain the visual elements and components of a website, ensuring a consistent and cohesive user experience.
 
 You can check it out on this link: [Style Guide project](https://websitestyling-lp.vercel.app/) 
 
